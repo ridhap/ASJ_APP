@@ -33,6 +33,6 @@ This project proposes a Visual Meme display App called “Memer” to display so
 <b> Application Link & Future Scope : </b><br>
 
 The app is currently in the Alpha testing phase with a limited no. of users, You can access the app : -‘https://github.com/myselfrohit51/ASJ_APP’
-Download the APK file from here:
+Download the APK file from here:  'https://drive.google.com/file/d/17qJ2p1Vt2PNeDVvK0jgenehq0vx_dRSJ/view?usp=sharing'
 
 Currently this app is used by my friends and family. After proper implementations of other functionalities, we will launch this app globally.
