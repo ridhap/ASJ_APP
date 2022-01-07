@@ -17,6 +17,7 @@ This project proposes a Visual Meme display App called “Memer” to display so
 
     	  	
 <b> Functionality & Concepts used : </b>
+
 --     The App has a very simple and interactive interface which helps the user browse top memes from Reddit using their “hot” post sorting algorithm implemented in the API location. 
 
 --     Following are few android concepts used to achieve the functionalities in app :
