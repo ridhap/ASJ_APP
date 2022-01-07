@@ -17,12 +17,12 @@ This project proposes a Visual Meme display App called “Memer” to display so
 
     	  	
 <b> Functionality & Concepts used : </b>
--    • The App has a very simple and interactive interface which helps the user browse top memes from Reddit using their “hot” post sorting algorithm implemented in the API location. 
--    • Following are few android concepts used to achieve the functionalities in app :
--    • Constraint Layout : Most of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
--    • Simple & Easy Views Design : Use of familiar interface with interactive next button and minimal design made it easier for users to navigate users without any clutters.
--    • We used volley library to make the networking easy .
--    • We used API to call random meme.
+-     The App has a very simple and interactive interface which helps the user browse top memes from Reddit using their “hot” post sorting algorithm implemented in the API location. 
+-     Following are few android concepts used to achieve the functionalities in app :
+-     Constraint Layout : Most of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
+-     Simple & Easy Views Design : Use of familiar interface with interactive next button and minimal design made it easier for users to navigate users without any clutters.
+-     We used volley library to make the networking easy .
+-     We used API to call random meme.
 
 
 <b> Application Link & Future Scope : </b>
